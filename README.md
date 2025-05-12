@@ -1,2 +1,5 @@
 # README.md.-Analise_tendencia.md
-Projeto de análise de tendências temporais em dados de produção offshore utilizando Python, pandas, matplotlib e seaborn. O objetivo é aplicar técnicas de análise de séries temporais para identificar padrões e insights relevantes para a indústria de petróleo e gás.
+Análise de tendências temporais em dados de produção off/onshore.
+Analisar a produção ao longo de diferentes períodos para identificar tendências de crescimento, estabilidade ou declínio.
+Esse projeto resolve problemas como: Identificação de padrões de produção; Previsibilidade e planejamento estratégico; Eficiência operacional; Riscos e falhas operacionais; Impacto ambiental.
+Constituindo uma grande valia na industria Petrolifera na Tomada de decisão baseada em dados; Otimização de ativos; Adaptação a mudanças no mercado; Sustentabilidade e conformidade regulatória; Competitividade.
